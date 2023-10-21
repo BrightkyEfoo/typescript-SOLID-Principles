@@ -30,4 +30,7 @@ Let’s look at each principle one by one. Following the SOLID acronym, they are
 
 ### Conclusion
 
-    In this part, we went through practical scenarios of using all the design principles of SOLID using typescript language. The examples were simplified for learning purposes but dealt with various challenges faced in real software design. The upcoming parts will deal with more advanced design patterns such as creational and structural patterns.
+    In this part, we went through practical scenarios of using all the design principles of SOLID
+	 using typescript language. The examples were simplified for learning purposes but dealt with
+	 various challenges faced in real software design. The upcoming parts will deal with more 
+	 advanced design patterns such as creational and structural patterns.
